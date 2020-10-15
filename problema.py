@@ -1,0 +1,6 @@
+ne1=input("Numarul curent elev: ")
+ne2=input("Numarul curent elev: ")
+ne3=input("Numarul curent elev: ")
+np1=input("punctajul elevului ")
+np2=input("punctajul elevului ")
+np3=input("punctajul elevului ")
